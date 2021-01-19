@@ -1,4 +1,4 @@
-package Abstraction_and_Interfaces;
+
 
 //Data abstraction is the process of hiding certain details and showing only essential information to the user.
 //Abstraction can be achieved with either abstract classes or interfaces
@@ -30,6 +30,7 @@ class MainClass{
     {
         TestClass tc = new TestClass();     //create an object
         tc.printMethod();                   //call concrete method
+        System.out.println(tc);
     }
 
 
