@@ -17,8 +17,6 @@ public class GetExceptions {
 
 
         public static void main(String[] args) throws InterruptedException {
-
-
             Thread.sleep(5000);
             try {
 
@@ -40,6 +38,7 @@ public class GetExceptions {
             catch (Exception e){
                 System.out.println("Something went Wrong");
             }
+
             finally {
                 int Sum =5+6;
                 System.out.println("Sum is "  +Sum);

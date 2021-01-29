@@ -16,7 +16,7 @@ Accepts a specific number of parameters. To initialize data members of a class w
 package Constructors;
 public class Emp_Details {
 
-    String name;
+    String name1;
     String Designation;
     int age;
 
@@ -31,17 +31,17 @@ public Emp_Details(String name,int age, String Designation){
 
     //this keyword is used to refer to the instance variable of a class.
 
-    this.name = name;
+    name1 = name;
     this.age=age;
     this.Designation=Designation;
 }
 
 public static void main(String[] args){
-        Emp_Details obj=new Emp_Details();
+        new Emp_Details();
 
     Emp_Details obj1= new Emp_Details("Arun",29,"Employee");
 
-    System.out.println(obj1.name +" "+obj1.age +" "+obj1.Designation+" ");
+    System.out.println(obj1.name1 +" "+obj1.age +" "+obj1.Designation+" ");
 
 }
 }

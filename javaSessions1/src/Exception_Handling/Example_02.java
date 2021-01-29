@@ -21,8 +21,8 @@ import java.util.Scanner;
             System.out.println("Enter your age: ");
             int age = sc.nextInt();
         }
-        catch (InputMismatchException e){
-            System.out.println("Please enter only integer values");
+        catch (Exception e){
+            System.out.println("e");
         }
 
     }
