@@ -1,19 +1,19 @@
 /* A constructor initializes an object when it is created.
 
- Constructors are used to give initial values to the instance variables defined by the class
+ Day_2_Constructors are used to give initial values to the instance variables defined by the class
 
  Java automatically provides a default constructor that initializes all member variables to zero.
  However, once you define your own constructor, the default constructor is no longer used.
 
 Types:
-1. No Arguement Constructors:
+1. No Arguement Day_2_Constructors:
 Using these constructors the instance variables of a method will be initialized with fixed values for all objects.
 
-2. Paramterized Constructors
+2. Paramterized Day_2_Constructors
 Accepts a specific number of parameters. To initialize data members of a class with distinct values.
  */
 
-package Constructors;
+package Day_2_Constructors;
 public class Emp_Details {
 
     String name1;

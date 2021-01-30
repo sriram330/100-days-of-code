@@ -1,4 +1,4 @@
-package Inheritance_Practice;
+package Day_3_Inheritance_Practice;
 
 public class Testcar {
 

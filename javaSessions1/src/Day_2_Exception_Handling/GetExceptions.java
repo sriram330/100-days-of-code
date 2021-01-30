@@ -9,7 +9,7 @@ Checked Exceptions: They are checked at compile-time. For example, IOException, 
 
 
 
-package Exception_Handling;
+package Day_2_Exception_Handling;
 
 import java.util.InputMismatchException;
 

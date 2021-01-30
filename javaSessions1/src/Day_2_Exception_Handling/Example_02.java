@@ -1,6 +1,5 @@
 
-package Exception_Handling;
-import java.util.InputMismatchException;
+package Day_2_Exception_Handling;
 import java.util.Scanner;
 
  class StudentData{

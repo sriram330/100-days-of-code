@@ -1,4 +1,4 @@
-package javaSessions;
+package Day_1;
 
 
 //Data abstraction is the process of hiding certain details and showing only essential information to the user.
@@ -34,9 +34,9 @@ package javaSessions;
 
             Bank b;
             b = new Citi ();      // concrete class object
-            System.out.println("javaSessions.Citi Rate of Interest is: "+b.getInterestRate()+"%");
+            System.out.println("Day_1.Citi Rate of Interest is: "+b.getInterestRate()+"%");
             b = new HDFC ();        // concrete class object
-            System.out.println("javaSessions.HDFC Rate of Interest is: "+b.getInterestRate()+"%");
+            System.out.println("Day_1.HDFC Rate of Interest is: "+b.getInterestRate()+"%");
 
         }
 
