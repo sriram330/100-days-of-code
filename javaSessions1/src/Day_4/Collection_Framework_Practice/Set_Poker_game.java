@@ -18,7 +18,7 @@ import java.util.Iterator;
 import java.util.LinkedHashSet;
 import java.util.Set;
 
-public class Poker_game {
+public class Set_Poker_game {
 
     public static void main(String[] args) {
         Set<String> Poker = new LinkedHashSet<>();

@@ -17,10 +17,4 @@
 * The framework had to be high-performance.
 * The implementations for the fundamental collections (dynamic arrays, linked lists, trees, and hashtables) were to be highly efficient.
  */
-package Day_4.Collection_Framework_Practice;
 
-public class Collections_Practice {
-
-
-
-}
