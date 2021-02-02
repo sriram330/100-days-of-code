@@ -4,7 +4,7 @@ In a priority queue, elements can be inserted in any order but removal of the el
 Due to this behavior, a priority queue can be used to sort the elements.
  */
 
-package Day_5_Queue_Practice;
+package Day_5;
 
 import java.util.Iterator;
 import java.util.PriorityQueue;

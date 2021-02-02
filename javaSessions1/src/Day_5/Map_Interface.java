@@ -12,10 +12,9 @@ A Map doesn't allow duplicate keys, but you can have duplicate values.
  HashMap and LinkedHashMap allow null keys and values, but TreeMap doesn't allow any null key or value.
  */
 
-package Day_5_Map_Practice;
+package Day_5;
 
 import java.util.HashMap;
-import java.util.Iterator;
 import java.util.Map;
 
 public class Map_Interface {

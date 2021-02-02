@@ -10,7 +10,7 @@
 
 
 
-package Day_5_Queue_Practice;
+package Day_5;
 
 import java.util.LinkedList;
 import java.util.Queue;
