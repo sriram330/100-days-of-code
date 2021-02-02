@@ -39,8 +39,6 @@ public class Map_Interface {
 
         employeeDetails.remove(171);
         System.out.println(employeeDetails.containsKey("Vijay"));
-
-
     }
 }
 
@@ -50,7 +48,21 @@ public class Map_Interface {
 
 
 /*
-HashMap is the implementation of Map, but it doesn't maintain any order.
-LinkedHashMap is the implementation of Map. It inherits HashMap class. It maintains insertion order.
-TreeMap is the implementation of Map and SortedMap. It maintains ascending order.
+
+
+
+* HashMap
+    It has pair values(keys,values)
+    NO duplication key values
+    doesn't maintain any order.
+    It allows one null key and more than one null values
+* HashTable
+   same as hash map
+   It does not allows null keys and null values
+* LinkedHashMap
+   It maintains insertion order.
+   Based on linked list and hashing data structures
+* TreeMap
+   TreeMap is the implementation of Map and SortedMap.
+   It maintains ascending order.
  */
