@@ -10,11 +10,6 @@
 * We cannot create an ArrayList of primitive types like int, char etc. You need to use boxed types like Integer, Character, Boolean etc.
  */
 
-
-
-
-package Day_4.Collection_Framework_Practice;
-
 import java.util.ArrayList;
 import java.util.Iterator;
 

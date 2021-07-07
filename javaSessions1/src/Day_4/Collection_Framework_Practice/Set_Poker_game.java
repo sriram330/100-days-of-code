@@ -12,7 +12,7 @@ TreeSet: This implementation orders its elements based on their values by their 
  or by a Comparator provided at creation time.
 
  */
-package Day_4.Collection_Framework_Practice;
+
 
 import java.util.Iterator;
 import java.util.LinkedHashSet;

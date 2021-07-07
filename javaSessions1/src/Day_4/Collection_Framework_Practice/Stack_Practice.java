@@ -6,7 +6,7 @@ When a stack is first created, it contains no items.
 In this class, the last element inserted is accessed first.
 
  */
-package Day_4.Collection_Framework_Practice;
+
 
 import java.util.Stack;
 
